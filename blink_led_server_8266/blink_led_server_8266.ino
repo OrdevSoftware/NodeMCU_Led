@@ -5,8 +5,8 @@
 #include <ESP8266WebServer.h>
 #include <ESP8266mDNS.h>
 
-const char* ssid = "MOVISTAR_6D72";
-const char* password = "xhGuacuuKTYDDXKGNxAG";
+const char* ssid = "tussid";
+const char* password = "tupassw";
  
 int ledPin = 13; // GPIO13
 WiFiServer server(8083);
