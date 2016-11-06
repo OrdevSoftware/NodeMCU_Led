@@ -1,4 +1,4 @@
-// Host=ESP_1B64B6 MAC=5c:cf:7f:1b:64:b6 IP=192.168.1.6 
+// Host=ESP_1B64B6 MAC=5c:cf:7f:1b:64:b6 
 
 #include <ESP8266WiFi.h>
 #include <WiFiClient.h>
